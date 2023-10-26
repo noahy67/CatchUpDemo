@@ -1,2 +1,1 @@
-# CatchUp-Backend
-The backend for my app CatchUp!
+Server and Client for the app CatchUp
